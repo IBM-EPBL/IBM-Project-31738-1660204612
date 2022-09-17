@@ -5,6 +5,6 @@ Team Leader :
     Bhoopesh R K
 
 Team Members :
-    Amitkumar Sharma R
-    Gautam Kumar Rai D
+    Amitkumar Sharma R,
+    Gautam Kumar Rai D,
     Kamali K
