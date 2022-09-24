@@ -1,0 +1,8 @@
+import random 
+while(True):
+    m=random.randint(10,100)
+    n=random.randint(10,100)
+    if(m>35 and n>60):
+        print("Temperature : {0} and humidity : {1}. Alarm is ON".format(m,n))
+    elif(m<35 and n<60):
+        print("Temperature : {0} and humidity : {1}. Alarm is OFF".format(m,n))
